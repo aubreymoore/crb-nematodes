@@ -4,5 +4,5 @@
 
 ![](images/laura1.JPG)
 ![](images/laura2.JPG)
-![](images/laura2.JPG)
+![](images/laura3.JPG)
 
